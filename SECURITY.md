@@ -4,7 +4,7 @@ Thank you for helping keep this project secure. This document explains how to re
 
 ## Reporting a Vulnerability (Preferred)
 - Use GitHub Security Advisories for a private report when possible.
-- If you cannot use GitHub Security Advisories, send a confidential report to the maintainers via email: security@llm-price-compass.example (replace with the appropriate maintainer contact if available).
+- If you cannot use GitHub Security Advisories, send a confidential report to the maintainers via email: contact@arc53.com (replace with the appropriate maintainer contact if available).
 
 When reporting, please include:
 - A clear summary of the issue.
